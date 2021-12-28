@@ -1,0 +1,25 @@
+{
+    "@context":"http://www.schema.org",
+    "@type":"LocalBusiness",
+    "priceRange":"$100 - $500",
+    "telephone":"+702 538 3988",
+    "name":"Brand Sentrik",
+    "url":"https://www.brandsentrik.com/",
+    "logo":"https://wwwbrandsentrikcom-jhftns9rajo6t8jg.stackpathdns.com/wp-content/uploads/2018/01/brand-sentrik-logo.png",
+    "image":"https://wwwbrandsentrikcom-jhftns9rajo6t8jg.stackpathdns.com/wp-content/uploads/2019/06/las-vegas-web-design.jpg",
+    "description":"Brand Sentrik is a Digital Marketing Agency specializing in Web Design, Social Media, SEO, Ecommerce, Conversion Optimizat$",
+    "address":
+    {
+        "@type":"PostalAddress",
+    "streetAddress":"9550 south eastern ave suite# 253",
+    "addressLocality":"Las Vegas",
+    "addressRegion":"NV ",
+    "postalCode":"89123",
+    "addressCountry":"US"},
+    "geo":
+    {
+        "@type":"GeoCoordinates",
+        "latitude":"36.014660",
+        "longitude":"-115.117590"
+    },"hasMap":"https://www.google.com/maps/place/Brand+Sentrik/@37.67865,-119.6335179,7z/data=!4m5!3m4!1s0x80c8ce3f8c76a1e3:0x3bfc37234fe4cb$"
+}
